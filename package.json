@@ -18,6 +18,8 @@
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
+    "@libp2p/webrtc": "latest",
+    "@libp2p/websockets": "latest",
     "@types/react-dom": "^18.2.7",
     "@typescript-eslint/eslint-plugin": "^6.0.0",
     "@typescript-eslint/parser": "^6.0.0",
